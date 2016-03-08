@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-js",
+  "name": "cosmos-js-es2015",
   "version": "0.7.2",
   "description": "A development tool for designing truly encapsulated React components",
   "repository": {
