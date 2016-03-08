@@ -1,5 +1,5 @@
 var ReactQuerystringRouter = require('react-querystring-router'),
-    ComponentPlayground = require('react-component-playground'),
+    ComponentPlayground = require('react-component-playground-es2015'),
     getComponentFixtureTree = require('./get-component-fixture-tree.js');
 
 var getTitleForFixture = function(params) {

@@ -1,6 +1,6 @@
 {
   "name": "cosmos-webpack-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A development tool for designing truly encapsulated React components",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "express": "^4.13.3",
     "postcss-loader": "^0.8.0",
     "postcss-nested": "^1.0.0",
-    "react-component-playground": "^0.3.7",
+    "react-component-playground-es2015": "^0.4.3",
     "react-querystring-router": "^0.2.1",
     "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.1",
